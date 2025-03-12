@@ -1,0 +1,1 @@
+![Exemple](polynome couleur.png)
